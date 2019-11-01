@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+h3{
+    text-align: center;
+    background-color: lemonchiffon;
+    color: cadetblue;
+}
+
+h4{
+    color: dodgerblue;
+}
+
+p{
+    color: slategray;
+}
+
+body{
+    background-image: url("../images/haikeigazou.jfif")
+}
