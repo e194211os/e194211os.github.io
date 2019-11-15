@@ -1,0 +1,32 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+h3{
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+h4{
+    color: dodgerblue;
+}
+
+p{
+    color: black;
+   
+}
+
+body{
+    background-image: url("../images/kabegami.jpg")
+}
+
+table{
+    background-color: lightgray;
+}
+
+ol{
+    background-image: url("../images/.jfif")
+}
