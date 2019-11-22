@@ -1,0 +1,27 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+h1#link{
+    color: lightgray;
+    text-align: center;
+    background-color: forestgreen;
+}
+
+h2{
+    color: gray;
+    text-align: center;
+    background-color: beige;
+}
+
+h2#zutto{
+    color: darkgreen;
+    text-align: center;
+    background-color: gainsboro;
+}
+
+body{
+    background-image: url("../images/ura.jfif")
+}
