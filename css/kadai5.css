@@ -1,0 +1,71 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    margin-bottom: 20px;
+    background-color: gray;
+}
+
+div.menu{
+    font-size: 0px;
+    width: 1000px;
+    height: 320px;
+    margin-bottom: 20px;
+        
+}
+
+div.futta{
+    width: 1000px;
+    height: 40px;
+    background-color: orange;
+    text-align: right;
+}
+
+div.waku1{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    font-size: 15px;
+    height: 320px;
+    margin-right: 50px;
+}
+
+div.waku2{
+    display: inline-block;
+    vertical-align: top;
+    width: 700px;
+    height: 320px;
+    font-size: 15px;
+    
+}
+
+div.menuu1{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: red;
+}
+
+div.menuu2{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: red;
+}
+
+div.menuu3{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+}
+
+div.gazou{
+    width: 700px;
+    height: 300px;
+    background-color: darkseagreen;
+}
+
+div.bunshou{
+    width: 700px;
+    height: 20px;
+    background-color: blue;
+}
