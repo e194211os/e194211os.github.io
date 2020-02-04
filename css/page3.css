@@ -6,6 +6,7 @@ p{
 }
 img{
     text-align: center;
+    margin: auto;
 }
 div.reol{
     width: 280px;
@@ -36,7 +37,7 @@ div.reol6{
 }
 div.menu{
     width: 1000px;
-    height: 500px;
+    height: 1350px;
     margin: auto;
 }
 div.waku1{
